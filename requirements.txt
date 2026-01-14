@@ -1,5 +1,8 @@
+Set-Content requirements.txt @"
 Flask
 Pillow
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torchvision
+gunicorn
+"@
