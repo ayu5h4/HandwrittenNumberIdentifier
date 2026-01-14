@@ -1,4 +1,12 @@
-
+---
+title: Handwritten Digit Identifier
+emoji: 🔢
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+app_port: 7860
+---
 # Handwritten Number Identifier
 
 This repository contains a neural network model that predicts handwritten numbers. The model is built using PyTorch and employs a Convolutional Neural Network (CNN) with a tinyVgg architecture.
